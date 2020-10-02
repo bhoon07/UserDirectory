@@ -1,13 +1,13 @@
 import React from "react";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
+import Title from "./components/Title/index";
 import EmployeeCard from "./components/EmployeeCard";
 import employees from "./employees.json";
 
 function App() {
   return (
     <Wrapper>
-      <Title>Employees List</Title>
+      <Title>Emoloyees List</Title>
       <EmployeeCard
         name={employees[0].name}
         image={employees[0].image}
