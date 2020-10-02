@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Richard",
+    "image":
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fwhite-house-chef-and-combat-veteran-andre-rush-has-signed-a-deal-to-produce-chef-in-the-city-300722689.html&psig=AOvVaw3Wjyxe-_qIxdMHtlsNknAW&ust=1601656602205000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODo6frpk-wCFQAAAAAdAAAAABAE",
+    "occupation": "Fry Cook",
+    "location": "Louisville, Ms"
+  },
+  {
+    "id": 2,
+    "name": "Bertha",
+    "image":
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomicvine.gamespot.com%2Fbig-bertha%2F4005-2490%2F&psig=AOvVaw2CFQOUK1JNTgmicFEkTsgW&ust=1601656672021000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCt9aHqk-wCFQAAAAAdAAAAABAE",
+    "occupation": "Restaurant Owner",
+    "location": "Selmer, Tn"
+  },
+  {
+    "id": 3,
+    "name": "Duncan",
+    "image":
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftotal-drama-do-over.fandom.com%2Fwiki%2FDuncan&psig=AOvVaw01-Ing4-dOz5K8V9nDr3AJ&ust=1601656752049000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjswsbqk-wCFQAAAAAdAAAAABAJ",
+    "occupation": "Cashier",
+    "location": "Grahame, Tx"
+  }
+]
